@@ -1,6 +1,11 @@
-print("Wanna Play a game?")
-print("type any number")
-y=3
-x=5
-if input==("3":
-    print("congrats")
+x=3
+y=4
+
+inp = input("k")
+if (inp == "3"):
+    print("Good")
+
+
+for i in range(1,100):
+    print(i)
+
